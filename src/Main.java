@@ -64,6 +64,5 @@ public class Main {
             reverseFullName[reverseFullName.length - i - 1] = m;
         }
         System.out.print(Arrays.toString(reverseFullName) + " ");
-
     }
 }
